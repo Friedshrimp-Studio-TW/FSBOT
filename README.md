@@ -62,6 +62,10 @@
         </tr>
         <tr align="center">
             <td align="center">建議</td>
+            <td align="center"><a href="https://github.com/rlongdragon" alt="rlongdragon 阿龍"><b>rlongdragon | 阿龍</b></td>
+        </tr>
+        <tr align="center">
+            <td align="center">建議</td>
             <td align="center"><a href="https://github.com/TimmyYue" alt="Timmy yue 木頭"><b>Timmy yue | 木頭</b></td>
         </tr>
     </table>
