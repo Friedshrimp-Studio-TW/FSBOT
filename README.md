@@ -31,7 +31,25 @@
         </tr>
         <tr align="center">
             <td align="center">👑主要開發者</td>
-            <td align="center"><a href="https://github.com/vincentwang0905" alt="vincentwang0905"><b>vincentwang0905</b><a></td>
+            <td align="center"><a href="https://github.com/vincentwang0905" alt="vincentwang0905"><b>vincentwang0905</b></a></td>
+        </tr>
+    </table>
+        <table align="center">
+        <tr align="center">
+            <td align="center">ℹ️貢獻內容ℹ️</td>
+            <td align="center">👉貢獻人員👈</td>
+        </tr>
+        <tr align="center">
+            <td align="center">協助修復BUG與建議</td>
+            <td align="center"><a href="https://github.com/Youzi9601" alt="Youzi9601柚子"><b>Youzi9601 | 柚子</b></td>
+        </tr>
+        <tr align="center">
+            <td align="center">建議</td>
+            <td align="center"><a href="https://github.com/TimmyYue" alt="Timmy yue 木頭"><b>Timmy yue | 木頭</b></td>
+        </tr>
+        <tr align="center">
+            <td align="center">協助代碼編寫</td>
+            <td align="center"><a href="https://github.com/peter995peter" alt="peter995peter 不能吃的木呱"><b>peter995peter | 不能吃的木呱</b></td>
         </tr>
     </table>
 </p>
