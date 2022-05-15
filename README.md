@@ -35,15 +35,11 @@
 <p align="center">
     <table align="center">
         <tr align="center">
-            <td align="center">ℹ️職位ℹ️</td>
-            <td align="center">👉開發人員👈</td>
-        </tr>
-        <tr align="center">
             <td align="center">👑主要開發者</td>
             <td align="center"><a href="https://github.com/vincentwang0905" alt="vincentwang0905"><b>vincentwang0905</b></a></td>
         </tr>
-    </table>
-        <table align="center">
+    </table></br></br>
+    <table align="center">
         <tr align="center">
             <td align="center">ℹ️貢獻內容ℹ️</td>
             <td align="center">👉貢獻人員👈</td>
