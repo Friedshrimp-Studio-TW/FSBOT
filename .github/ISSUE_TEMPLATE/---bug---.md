@@ -1,7 +1,7 @@
 ---
 name: 錯誤(BUG)回報
 about: 創建一個報告以回報你所發現的錯誤(BUG)
-title: "[BUG]"
+title: "[BUG] 簡略說明(刪除此行時請不要刪除到 [BUG] )"
 labels: 問題, 待驗證
 assignees: vincentwang0905
 
