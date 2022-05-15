@@ -104,6 +104,7 @@
 
 <h1 align="center"><b>🔗相關連結🔗</b></h1>
 <p align="center">
+    <a href="https://fstw.cf" alt="FSTW網站"><b>FSTW網站</b></a> • <a href="https://dcbot.fstw.tk/" alt="FSBOT邀請連結"><b>FSBOT邀請連結</b></a> • <a href="https://discord.gg/YRu75UHSWz" alt="FSTW群組"><b>FSTW群組</b></a> • <a href="https://github.com/friedshrimptaiwan/FSBOT/issues" alt="BUG回報"><b>回報錯誤(BUG)</b></a>
 </p>
 
 ---
