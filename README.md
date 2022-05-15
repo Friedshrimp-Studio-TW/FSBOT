@@ -21,7 +21,9 @@
 <h4 align="center">
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與音樂!</b>
 <h4>
+
 ---
+
 <h1 align="center"><b>🔗開發相關人員🔗</b></h1>
 <p align="center">
     <table align="center">
