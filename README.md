@@ -52,6 +52,10 @@
             <td align="center"><a href="https://github.com/peter995peter" alt="peter995peter 不能吃的木呱"><b>peter995peter | 不能吃的木呱</b></td>
         </tr>
         <tr align="center">
+            <td align="center">協助代碼編寫</td>
+            <td align="center"><a href="https://github.com/Sakurajima-Mai-San" alt="さくらじま まい Kevin"><b>さくらじま まい | Kevin</b></td>
+        </tr>
+        <tr align="center">
             <td align="center">協助修復BUG與建議</td>
             <td align="center"><a href="https://github.com/Youzi9601" alt="Youzi9601柚子"><b>Youzi9601 | 柚子</b></td>
         </tr>
