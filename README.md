@@ -1,9 +1,10 @@
 <p align="center">
     <image src="https://media.discordapp.net/attachments/967316685868662855/967376750793342996/fsbot-icon.png?width=222&height=222" ></image>
+    <h1 align="center">
+        <b>🍤炸蝦機器人[FSBOT]🍤</b>
+    </h1>
 </p>
-<h1 align="center">
-    <b>🍤炸蝦機器人[FSBOT]🍤</b>
-</h1>
+
 <p align="center">
 <a href="https://dcbot.fstw.tk/">[ ╰╮ 邀請機器人 ╭╯ ]</a>
 </p>
