@@ -71,3 +71,30 @@
         </tr>
     </table>
 </p>
+
+---
+
+<h1 align="center"><b>📜指令列表📜</b></h1>
+<p align="center">
+    </br><table align="center">
+        <tr>
+            <td align="center">📖一般指令</td>
+            <td align="center">🎵音樂指令</td>
+            <td align="center">🚫管理員指令</td>
+        </tr>
+        <tr>
+            <td><code>/help</code> | 查看指令列表</td>
+            <td align="center">⚠️暫無⚠️</td>
+            <td><code>/embed</code> | 發送嵌入訊息(需有 <code>管理訊息</code> 權限)</td>
+        </tr>
+        <tr>
+            <td><code>/avatar</code> | 查看用戶頭像</td>
+            <td></td>
+            <td><code>/ban</code> | 封鎖成員(需有 <code>對成員停權</code> 權限)</td>
+        </tr>
+        <tr>
+            <td><code>/userinfo</code> | 查看用戶數據</td>
+            <td></td>
+            <td><code>/kick</code> | 踢出成員(需有 <code>踢出成員</code> 權限)</td>
+        </tr>
+    </table></br>
