@@ -4,7 +4,9 @@
 <h1 align="center">
     <b>🍤炸蝦機器人[FSBOT]🍤</b>
 </h1>
-<a href="https://dcbot.fstw.tk/" align="center">[╰╮╭╯ 邀請機器人 ╰╮╭╯]</a>
+<p align="center">
+<a href="https://dcbot.fstw.tk/">[ ╰╮ 邀請機器人 ╭╯ ]</a>
+</p>
 
 ---
 
