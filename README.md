@@ -22,7 +22,16 @@
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與音樂!</b>
 <h4>
 
-<h1 align="center"><b>🔗開發人員🔗</b></h1>
+<h1 align="center"><b>🔗開發相關人員🔗</b></h1>
 <p align="center">
-    主要開發者 [vincentwang0905](https://github.com/vincentwang0905)
+    <table align="center">
+        <tr align="center">
+            <td align="center">ℹ️職位ℹ️</td>
+            <td align="center">👉開發人員👈</td>
+        </tr>
+        <tr align="center">
+            <td align="center">👑主要開發者</td>
+            <td align="center"><a href="https://github.com/vincentwang0905" alt="vincentwang0905"><b>vincentwang0905</b><a></td>
+        </tr>
+    </table>
 </p>
