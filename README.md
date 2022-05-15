@@ -97,4 +97,7 @@
             <td></td>
             <td><code>/kick</code> | 踢出成員(需有 <code>踢出成員</code> 權限)</td>
         </tr>
-    </table></br>
+    </table>
+</p>
+
+---
