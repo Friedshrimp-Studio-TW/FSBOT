@@ -27,8 +27,17 @@
 </p>
 <h4 align="center">
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與音樂!</b>
-    <p></br></br>目前機器人還在測試版(Alpha)，暫不提供代碼!</p>
 <h4>
+
+
+
+<p align="center"></br></br>目前機器人還在測試版(Alpha)，暫不提供代碼!</p>
+
+---
+
+<h1 align="center"><b>👉注意👈</b></h1>
+
+> <h2 align="center"></br>禁止進行任何的侵權動作!</br>嚴禁盜用本儲存庫代碼另行架設機器人或使用本儲存庫代碼進行二創!<h2> 
 
 ---
 
@@ -109,3 +118,5 @@
 
 ---
 
+<p align="center">版權所有© 2022 炸蝦(vincentwang0905)</p>
+<p align="center">Copyright © 2022 炸蝦(vincentwang0905). All rights reserved.</p>
