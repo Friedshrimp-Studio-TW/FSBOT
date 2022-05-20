@@ -46,7 +46,7 @@
     </br><table align="center">
         <tr align="center">
             <td align="center">👑主要開發者</td>
-            <td align="center"><a href="https://github.com/vincentwang0905" alt="vincentwang0905"><b>vincentwang0905</b></a></td>
+            <td align="center"><a href="https://github.com/vincentwang0905" alt="vincentwang0905 炸蝦"><b>vincentwang0905 | 炸蝦</b></a></td>
         </tr>
     </table></br>
     <table align="center">
