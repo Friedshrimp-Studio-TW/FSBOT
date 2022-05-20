@@ -106,6 +106,16 @@
             <td></td>
             <td><code>/kick</code> | 踢出成員(需有 <code>踢出成員</code> 權限)</td>
         </tr>
+        <tr>
+            <td><code>/fsbinfo</code> | FSBOT機器人相關資訊</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><code>/feedback</code> | 回報相關</td>
+            <td></td>
+            <td></td>
+        </tr>
     </table>
 </p>
 
