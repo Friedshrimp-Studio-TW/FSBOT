@@ -93,28 +93,22 @@
             <td align="center">🚫管理員指令</td>
         </tr>
         <tr>
-            <td><code>/help</code> | 查看指令列表</td>
-            <td><code>/setjoin</code> | 用戶加入群組相關設定</br>(需有 <code>管理者</code> 權限)</td>
+            <td><code>/help</code> | 查看指令列表(子指令)</td>
+            <td><code>/setjoin</code> | 用戶加入群組相關設定</br>(需有 <code>管理者</code> 權限)(子指令)</td>
             <td align="center">⚠️暫無⚠️</td>
             <td><code>/embed</code> | 發送嵌入訊息</br>(需有 <code>管理訊息</code> 權限)</td>
         </tr>
         <tr>
             <td><code>/avatar</code> | 查看用戶頭像</td>
-            <td><code>/setleave</code> | 用戶離開群組相關設定</br>(需有 <code>管理者</code> 權限)</td>
+            <td><code>/setleave</code> | 用戶離開群組相關設定</br>(需有 <code>管理者</code> 權限)(子指令)</td>
             <td></td>
             <td><code>/ban</code> | 封鎖成員</br>(需有 <code>對成員停權</code> 權限)</td>
         </tr>
         <tr>
-            <td><code>/userinfo</code> | 查看用戶數據</td>
+            <td><code>/info</code> | 查看所有資訊(子指令)</td>
             <td></td>
             <td></td>
             <td><code>/kick</code> | 踢出成員</br>(需有 <code>踢出成員</code> 權限)</td>
-        </tr>
-        <tr>
-            <td><code>/fsbinfo</code> | FSBOT機器人相關資訊</td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td><code>/feedback</code> | 回報相關</td>
@@ -123,7 +117,7 @@
             <td></td>
         </tr>
         <tr>
-            <td><code>/serverinfo</code> | 查看群組資訊</td>
+            <td><code>/poll</code> | 創建一個投票</td>
             <td></td>
             <td></td>
             <td></td>
