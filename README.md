@@ -114,7 +114,7 @@
             <td><code>/feedback</code> | 回報相關</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td><code>/nick</code> | 更改用戶暱稱</br>(需有 <code>管理暱稱</code> 權限)(子指令)</td>
         </tr>
         <tr>
             <td><code>/poll</code> | 創建一個投票</td>
