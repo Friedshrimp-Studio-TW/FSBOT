@@ -106,7 +106,7 @@
         </tr>
         <tr>
             <td><code>/info</code> | 查看所有資訊(子指令)</td>
-            <td></td>
+            <td><code>/setmessagelog</code> | 訊息紀錄設定</br>(需有 <code>管理者</code> 權限)(子指令)</td>
             <td></td>
             <td><code>/kick</code> | 踢出成員</br>(需有 <code>踢出成員</code> 權限)</td>
         </tr>
