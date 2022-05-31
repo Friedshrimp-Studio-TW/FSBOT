@@ -121,6 +121,17 @@
             <td></td>
             <td></td>
             <td></td>
+        <tr>
+            <td><code>/ip</code> | 查看IP或網域資訊</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><code>/minecraft</code> | 查看Minecraft伺服器資訊</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
 </p>
