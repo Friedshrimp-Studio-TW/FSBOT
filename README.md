@@ -91,6 +91,7 @@
             <td align="center">⚙設定指令</td>
             <td align="center">🎵音樂指令</td>
             <td align="center">🚫管理員指令</td>
+            <td align="center">🖥️系統指令</td>
         </tr>
     </table>
     <table align="center">
