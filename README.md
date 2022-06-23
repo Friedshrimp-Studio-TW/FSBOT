@@ -92,48 +92,16 @@
             <td align="center">🎵音樂指令</td>
             <td align="center">🚫管理員指令</td>
         </tr>
-        <tr>
-            <td><code>/help</code> | 查看指令列表(子指令)</td>
-            <td><code>/setjoin</code> | 用戶加入群組相關設定</br>(需有 <code>管理者</code> 權限)(子指令)</td>
-            <td align="center">⚠️暫無⚠️</td>
-            <td><code>/embed</code> | 發送嵌入訊息</br>(需有 <code>管理訊息</code> 權限)</td>
+    </table>
+    <table align="center">
+<tr>
+            <td align="center">✳️ 擁有地震報告發送功能，使用 <code>/earthquake reportset</code> 來查看吧!✳️<br>✳️ 擁有加入與退出群組訊息功能，使用 <code>/setjoin set</code> 來查看吧!✳️<br>✳️ 擁有疾管署報告發送功能，使用 <code>/cdc messageset</code> 來查看吧!✳️<br>✳️ 擁有訊息紀錄功能，使用 <code>/setmessagelog set</code> 來查看吧!✳️<br>✳️ 擁有頻道紀錄功能，使用 <code>/setchannellog set</code> 來查看吧!✳️<br>✳️ 擁有客服單功能(Ticket)，使用 <code>/ticket set</code> 來查看吧!✳️</td>
         </tr>
-        <tr>
-            <td><code>/avatar</code> | 查看用戶頭像</td>
-            <td><code>/setleave</code> | 用戶離開群組相關設定</br>(需有 <code>管理者</code> 權限)(子指令)</td>
-            <td></td>
-            <td><code>/ban</code> | 封鎖成員</br>(需有 <code>對成員停權</code> 權限)</td>
-        </tr>
-        <tr>
-            <td><code>/info</code> | 查看所有資訊(子指令)</td>
-            <td><code>/setmessagelog</code> | 訊息紀錄設定</br>(需有 <code>管理者</code> 權限)(子指令)</td>
-            <td></td>
-            <td><code>/kick</code> | 踢出成員</br>(需有 <code>踢出成員</code> 權限)</td>
-        </tr>
-        <tr>
-            <td><code>/feedback</code> | 回報相關</td>
-            <td></td>
-            <td></td>
-            <td><code>/nick</code> | 更改用戶暱稱</br>(需有 <code>管理暱稱</code> 權限)(子指令)</td>
-        </tr>
-        <tr>
-            <td><code>/poll</code> | 創建一個投票</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        <tr>
-            <td><code>/ip</code> | 查看IP或網域資訊</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><code>/minecraft</code> | 查看Minecraft伺服器資訊</td>
-            <td></td>
-            <td></td>
-            <td></td>
+        <tr align="center">
+            <td><center>✳️ 想查看更多指令嗎? 使用 <code>/help</code> 來查看吧! ✳️</center></td>
         </tr>
     </table>
+
 </p>
 
 ---
