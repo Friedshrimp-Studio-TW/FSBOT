@@ -31,7 +31,7 @@
 
 
 
-<p align="center"></br></br>目前機器人還在測試版(Alpha)，暫不提供代碼!</p>
+<p align="center"></br></br>目前機器人還在測試版(Beta)，暫不提供代碼!</p>
 
 ---
 
