@@ -25,13 +25,10 @@
         <img src="https://img.shields.io/discord/898190213854134272?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
     </a>
 </p>
-<h4 align="center">
+<h3 align="center">
+    <a href="https://github.com/friedshrimptaiwan/FSBOT/blob/main/PRIVACY.md" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a></br>
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與音樂!</b>
-<h4>
-
-
-
-<p align="center"></br></br>目前機器人還在測試版(Beta)，暫不提供代碼!</p>
+<h3>
 
 ---
 
