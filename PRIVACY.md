@@ -1,4 +1,5 @@
 # 隱私權政策
+(中文TW,[英文EN](https://github.com/friedshrimptaiwan/FSBOT/blob/main/PRIVACYEN.md))
 
 **__在服務器中使用此機器人需要收集一些特定的用戶或群組數據。使用本機器人即視為同意本機器人條款。__**
 
