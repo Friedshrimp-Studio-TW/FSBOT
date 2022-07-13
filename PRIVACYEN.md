@@ -1,4 +1,4 @@
-# privacy policy
+# Privacy Policy
 ([中文TW](https://github.com/friedshrimptaiwan/FSBOT/blob/main/PRIVACY.md),英文EN)
 
 **Using this bot in the server requires the collection of some specific user or group data. Use of this robot constitutes agreement to these Robot Terms.**
