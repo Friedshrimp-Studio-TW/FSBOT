@@ -1,19 +1,21 @@
 <!DOCTYPE HTML>
 <html lang="zh-Hant">
 	<head>
-		<title>🍤炸蝦機器人-FSBOT</title>
+	<title>🍤炸蝦機器人-FSBOT</title>
         <meta name="description" content="炸蝦機器人提供許許多多的功能！有地震報告、疾管署報告、天氣景特報等等...">
         <meta name="author" content="VincentX0905(VincentWang0905,炸蝦)">
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="keywords" content="炸蝦, 炸蝦機器人, FSBOT, 炸蝦機器">
         <meta http-equiv="X-UA-Compatible " content="IE=edge">
         <meta name="Distribution" content="Taiwan">
         <meta name="expired" content="-1">
         <meta http-equiv="Pragma" content="No-cache">
-		<link rel="stylesheet" href="assets/css/main.css" />
+	<link type="text/css" href="assets/css/OverlayScrollbars.css" rel="stylesheet"/>
+	<script type="text/javascript" src="path/to/OverlayScrollbars.js"></script>
+	<link rel="stylesheet" href="assets/css/main.css" />
         <link rel="icon" type="images/x-icon" href="images/favicon.ico">
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload" oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
 		<div id="wrapper">
@@ -174,6 +176,9 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script type="text/javascript">
+				document.addEventListener("DOMContentLoaded", function() {
+    					OverlayScrollbars(document.querySelectorAll('body'), { });
+				});
 				function discord() {
 					window.open("https://discord.gg/Pw8z4YkBFB");
 				}
