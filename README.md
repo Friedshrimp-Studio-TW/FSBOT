@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://dcbot.fstw.tk/">[ ╰╮ 邀請機器人 ╭╯ ]</a>
+<a href="https://dcbot.fstw.tk/">[ ╰╮ 邀請機器人 ╭╯ ]</a> 
 </p>
 
 ---
