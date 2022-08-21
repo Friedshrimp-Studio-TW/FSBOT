@@ -1,15 +1,15 @@
 # 隱私權政策 Privacy Policy
 
 **__在群組中使用此機器人需要收集一些特定的用戶或群組數據。使用本機器人即視為同意本機器人條款。__**</br>
-**__Using this bot in the server requires the collection of some specific user or group data. Use of this robot constitutes agreement to these Robot Terms.__**
+**__Using this bot in the server requires the collection of some specific user or group data. Use of this bot constitutes agreement to these bot Terms.__**
 
 ## 數據訪問權限 Data access permissions
 
 僅機器人擁有者(炸蝦)可以訪問數據，本機器人無另外開發人員!</br>
 如果有任何人說它具有本機器人數據皆屬不實謠言!</br>
 本人在此聲明，並不會將用戶數據或群組數據做交易或買賣!</br>
-Only the owner of the robot (fried shrimp) can access the data, there is no other developer for this robot!</br>
-Anyone who says it has data from this robot is a false rumor!</br>
+Only the owner of the bot (fried shrimp) can access the data, there is no other developer for this bot!</br>
+Anyone who says it has data from this bot is a false rumor!</br>
 I hereby declare that I will not trade or buy user data or group data!
 
 ## 儲存的數據 Stored data
@@ -43,7 +43,7 @@ You can go to [FSBOT Discord](https://discord.gg/Pw8z4YkBFB) to open a customer 
 如果您擔心本機器人儲存了您的帳戶中的隱私數據或其它有疑慮的數據，請前往 [FSBOT Discord](https://discord.gg/Pw8z4YkBFB) 開啟客服單做詢問</br>
 其餘請遵守 [Discord 服務條款](https://discord.com/terms) !</br>
 If you have any questions, please go to [FSBOT Discord](https://discord.gg/Pw8z4YkBFB) to ask</br>
-If you are concerned that the robot stores private data in your account or other suspicious data, please go to [FSBOT Discord](https://discord.gg/Pw8z4YkBFB) to open a customer service ticket for inquiry</br>
+If you are concerned that the bot stores private data in your account or other suspicious data, please go to [FSBOT Discord](https://discord.gg/Pw8z4YkBFB) to open a customer service ticket for inquiry</br>
 Please follow the [Discord Terms of Service](https://discord.com/terms) for the rest!
 
 </br></br>
