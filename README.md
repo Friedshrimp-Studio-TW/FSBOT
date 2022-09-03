@@ -21,7 +21,7 @@
     <a href="https://docs.disnake.dev/">
         <img alt="Disnake" src="https://img.shields.io/badge/Disnake版本-V2.5.2-blue.svg?style=for-the-badge&logo=discord" />
     </a>
-    <a href="https://discord.gg/YRu75UHSWz" alt="Discord支援群組">
+    <a href="[https://discord.gg/YRu75UHSWz](https://discord.gg/Pw8z4YkBFB)" alt="Discord支援群組">
         <img src="https://img.shields.io/discord/898190213854134272?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
     </a>
 </p>
