@@ -119,6 +119,22 @@
 
 ---
 
+<h1 align="center"><b>🤝為炸蝦機器人貢獻🤝</b></h1>
+<details>
+<summary><u><b>點擊查看</b></u></summary>
+<p align="center">
+    <table align="center">
+        <tr align="center">
+            <td align="center">空缺1</td>
+            <td align="center">本地化(i18n) 翻譯</td>
+            <td align="center">有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">此訊息</td>
+        </tr>
+    </table>
+</p>
+</details>
+
+---
+
 <h1 align="center"><b>🔗相關連結🔗</b></h1>
 <p align="center">
     <a href="https://www.fsbot.tk/#privacypolicy" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="FSBOT服務條款"><b>FSBOT服務條款</b></a> • <a href="https://invite.fsbot.tk/" alt="FSBOT邀請連結"><b>FSBOT邀請連結</b></a> • <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a>
