@@ -26,8 +26,7 @@
     </a>
 </p>
 <h3 align="center">
-    <a href="https://www.fsbot.tk/#privacypolicy" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a></br>
-    <a href="https://www.fsbot.tk/#tos" alt="FSBOT服務條款"><b>FSBOT服務條款</b></a></br>
+    <a href="https://www.fsbot.tk/#privacypolicy" alt="🔗FSBOT隱私權政策"><b>🔗FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="🔗FSBOT服務條款"><b>🔗FSBOT服務條款</b></a></br>
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與實用小工具!</b>
 <h3>
 
