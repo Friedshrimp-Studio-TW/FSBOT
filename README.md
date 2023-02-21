@@ -127,7 +127,7 @@
         <tr align="center">
             <td align="center">空缺1</td>
             <td align="center">本地化(i18n) 翻譯</td>
-            <td align="center">有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">本地化網站</td>
+            <td align="center">有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">本地化公告</td>
             <td align="center">確認要翻譯的語言後請前往 <a href="https://gitlocalize.com/repo/8380" alt="FSBOT本地化"> 進行翻譯</td>
     </table>
     <table align="center">
