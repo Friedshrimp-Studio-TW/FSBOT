@@ -343,7 +343,7 @@
     "channellogcommandembedtitle": "⚙️ 頻道紀錄已設置完成",
     "channellogcommandembeddec": "頻道紀錄已設置完成!\n每個群組限設置一個發送頻道!\n使用 `/頻道紀錄 移除通知設定` 可以移除該設置!",
     "channellogcommandremoveembedtitle": "⚙️ 頻道紀錄已移除完成",
-    "channellogcommandremoveembedtitledec": "頻道紀錄已移除完成!\n如想要再次接收請使用 `/頻道紀錄 移除通知設定` 設置!",
+    "channellogcommandremoveembedtitledec": "頻道紀錄已移除完成!\n如想要再次接收請使用 `/頻道紀錄 通知設定` 設置!",
     "channellogcommandremovemsg": "移除通知設定",
     "channellogcommandremovemsgdec": "【FSBOT】移除群組頻道紀錄(指令:/頻道紀錄 移除通知設定)",
     "messagelogcommand": "訊息紀錄",
@@ -354,7 +354,7 @@
     "messagelogcommandembedtitle": "⚙️ 訊息紀錄已設置完成",
     "messagelogcommandembeddec": "訊息紀錄已設置完成!\n每個群組限設置一個發送頻道!\n使用 `/訊息紀錄 移除通知設定` 可以移除該設置!",
     "messagelogcommandremoveembedtitle": "⚙️ 訊息紀錄已移除完成",
-    "messagelogcommandremoveembedtitledec": "訊息紀錄已移除完成!\n如想要再次接收請使用 `/訊息紀錄 移除通知設定` 設置!",
+    "messagelogcommandremoveembedtitledec": "訊息紀錄已移除完成!\n如想要再次接收請使用 `/訊息紀錄 通知設定` 設置!",
     "messagelogcommandremovemsg": "移除通知設定",
     "messagelogcommandremovemsgdec": "【FSBOT】移除群組訊息紀錄(指令:/訊息紀錄 移除通知設定)",
 
