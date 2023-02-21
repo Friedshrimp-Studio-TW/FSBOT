@@ -137,7 +137,7 @@
         </tr>
         <tr align="center">
             <td align="center">en_US</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/en?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/en/badge.svg" /></a></td>
+            <td align="center"><a href="https://gitlocalize.com/repo/8380/en-US?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/en-US/badge.svg" /></a></td>
         </tr>
     </table>
 </p>
