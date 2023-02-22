@@ -132,6 +132,10 @@
     </table>
     <table align="center">
         <tr align="center">
+            <td align="center">總進度</td>
+            <td align="center"><a href="https://gitlocalize.com/repo/8380/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/whole_project/badge.svg" /></a></td>
+        </tr>
+        <tr align="center">
             <td align="center">zh_CN</td>
             <td align="center"><a href="https://gitlocalize.com/repo/8380/zh-CN?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/zh-CN/badge.svg" /></a></td>
         </tr>
