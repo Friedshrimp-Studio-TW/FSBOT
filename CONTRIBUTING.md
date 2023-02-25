@@ -78,28 +78,15 @@
 <h1 align="center"><b>🤝為炸蝦機器人貢獻🤝</b></h1>
 <details>
 <summary><u><b>點擊查看</b></u></summary>
+<h2>空缺1</h2>
+<p>本地化(i18n) 翻譯</br>有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">本地化公告</br>確認要翻譯的語言後請前往 <a href="https://gitlocalize.com/repo/8380" alt="FSBOT本地化"> 進行翻譯</p>
 <p align="center">
-    <table align="center">
-        <tr align="center">
-            <td align="center">空缺1</td>
-            <td align="center">本地化(i18n) 翻譯</td>
-            <td align="center">有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">本地化公告</td>
-            <td align="center">確認要翻譯的語言後請前往 <a href="https://gitlocalize.com/repo/8380" alt="FSBOT本地化"> 進行翻譯</td>
-    </table>
-    <table align="center">
-        <tr align="center">
-            <td align="center">總進度</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/whole_project/badge.svg" /></a></td>
-        </tr>
-        <tr align="center">
-            <td align="center">zh_CN</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/zh-CN?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/zh-CN/badge.svg" /></a></td>
-        </tr>
-        <tr align="center">
-            <td align="center">en_US</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/en-US?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/en-US/badge.svg" /></a></td>
-        </tr>
-    </table>
+<table align="center">
+    <tr align="center">
+        <td align="center">總翻譯進度</td>
+        <td align="center"><a href="https://gitlocalize.com/repo/8380/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/whole_project/badge.svg" /></a></td>
+    </tr>
+</table>
 </p>
 </details>
 
