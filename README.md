@@ -34,7 +34,9 @@
 
 <h1 align="center"><b>👉注意👈</b></h1>
 
-> <h2 align="center"></br>禁止進行任何的侵權動作!</br>嚴禁盜用本儲存庫代碼另行架設機器人或使用本儲存庫代碼進行二創!<h2> 
+> <h2 align="center"></br>禁止進行任何的侵權動作!</br>嚴禁盜用本儲存庫代碼另行架設機器人或使用本儲存庫代碼進行二創!<h2>
+
+> <h2 align="center"></br>如想為炸蝦貢獻請查看[此處](CONTRIBUTING.md)<h2> 
 
 ---
 
@@ -112,36 +114,6 @@
         </tr>
         <tr align="center">
             <td><center>✳️ 想查看更多指令嗎? 使用 <code>/help</code> 來查看吧! ✳️</center></td>
-        </tr>
-    </table>
-</p>
-</details>
-
----
-
-<h1 align="center"><b>🤝為炸蝦機器人貢獻🤝</b></h1>
-<details>
-<summary><u><b>點擊查看</b></u></summary>
-<p align="center">
-    <table align="center">
-        <tr align="center">
-            <td align="center">空缺1</td>
-            <td align="center">本地化(i18n) 翻譯</td>
-            <td align="center">有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">本地化公告</td>
-            <td align="center">確認要翻譯的語言後請前往 <a href="https://gitlocalize.com/repo/8380" alt="FSBOT本地化"> 進行翻譯</td>
-    </table>
-    <table align="center">
-        <tr align="center">
-            <td align="center">總進度</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/whole_project/badge.svg" /></a></td>
-        </tr>
-        <tr align="center">
-            <td align="center">zh_CN</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/zh-CN?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/zh-CN/badge.svg" /></a></td>
-        </tr>
-        <tr align="center">
-            <td align="center">en_US</td>
-            <td align="center"><a href="https://gitlocalize.com/repo/8380/en-US?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/en-US/badge.svg" /></a></td>
         </tr>
     </table>
 </p>
