@@ -290,6 +290,7 @@
     "autosetroleremove": "我已移除你的身分組!",
     "autosetrolgive": "您已取得 <@&{roleid}> 身分組!",
     "autosetrolerror": "群組擁有者或管理員可能移除了這個身分組\n或是我沒有權限管理你的身分組!\n抑或是我不能給予比我最高身分組還要高的身分組!",
+    "autosetrolesended": "<a:accepted:986082878075068487> 自動身分組訊息已發送!",
 
     "cdccommand": "疾管署",
     "cdccommanddec": "【FSBOT】衛生福利部疾病管制署訊息(指令:/疾管署)",
