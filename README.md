@@ -61,10 +61,6 @@
         </tr>
         <tr align="center">
             <td align="center">協助代碼編寫</td>
-            <td align="center"><a href="https://github.com/Sakurajima-Mai-San" alt="さくらじま まい Kevin"><b>さくらじま まい | Kevin</b></td>
-        </tr>
-        <tr align="center">
-            <td align="center">協助代碼編寫</td>
             <td align="center"><a href="https://github.com/kangjwme" alt="kangjwme KJW"><b>kangjwme | KJW</b></td>
         </tr>
         <tr align="center">
