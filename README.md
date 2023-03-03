@@ -106,6 +106,8 @@
                 ✳️ 擁有抽獎功能，使用 <code>/giveaway set</code> 來設置吧!✳️
                 <br><br>
                 ✳️ 擁有自動身分組功能，使用 <code>/roles autoset</code> 來設置吧!✳️
+                <br><br>
+                ✳️ 擁有設定建議頻道功能，使用 <code>/suggestionchannel set</code> 來設置吧!✳️
             </td>
         </tr>
         <tr align="center">
