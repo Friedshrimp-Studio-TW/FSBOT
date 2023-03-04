@@ -503,6 +503,8 @@
     "infofsbotsendsec": "{0} 您所查詢的FSBOT資訊!",
     "infofsbotsenderror": "{0} 目前無法查詢的FSBOT資訊!",
     "infousernotfound": "你無法查詢不再此群組的用戶資訊!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
+    "infouserembedcoloranncolor": "橫幅顏色: ",
+    "infouserembedcolorcolor": "個人資料主題顏色: ",
 
     "pingcommand": "延遲",
     "pingcommanddec": "【FSBOT】查看炸蝦機器人系統資訊(指令:/延遲)",
