@@ -406,6 +406,8 @@
     "giveawaymsgsec": "🎉 抽獎已發送成功!",
     "giveawayusermsgsec": "🎉 您已加入此抽獎!",
     "giveawayusermsgfa": "🎉 您已離開此抽獎!",
+    "giveawayembedtitlegcount": "抽出人數: ",
+    "giveawayembedtitleallcount": "參與人數: ",
 
     "paycommand": "轉帳",
     "paycommanddec": "【FSBOT】轉帳給其他用戶指令(指令:/轉帳)",
