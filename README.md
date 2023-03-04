@@ -24,8 +24,6 @@
     <a href="https://discord.fsbot.tk" alt="Discord支援群組">
         <img src="https://img.shields.io/discord/937628164862136362?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
     </a>
-    <br>
-    <a href="https://www.buymeacoffee.com/vincentx0905"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vincentx0905&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
 <h3 align="center">
     <a href="https://www.fsbot.tk/#privacypolicy" alt="🔗FSBOT隱私權政策"><b>🔗FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="🔗FSBOT服務條款"><b>🔗FSBOT服務條款</b></a></br>
