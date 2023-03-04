@@ -472,7 +472,7 @@
     "infoserverclose": "已關閉",
     "infoserverembeddcnitro": "<a:discordnitro:1072516533735149608>群組加成數",
     "infoserverembeddcnitrodec": "```\n等級: {0} | {1} 個加成 \n```",
-    "infoservermsgsec": "{user} 您所查詢的群組資訊!",
+    "infoservermsgsec": "{0} 您所查詢的群組資訊!",
     "infoserverembedchannel": "🗣️群組頻道數",
     "infoserverembedchanneldec": "```\n總頻道數 {0} | {1} 個文字頻道 | {2} 個語音頻道 | {3} 個舞台頻道 | {4} 個論壇頻道 \n```",
     "infoserverembedmembers": "👤群組成員總數",
