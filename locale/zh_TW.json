@@ -7,6 +7,8 @@
     "fssayonevaluedes": "輸入訊息",
     "fssaycannotuse": "此FS系列指令為炸蝦專屬喔!\n {0} 不要偷玩欸!",
 
+    "networkcommand": "網路",
+    "networkcommanddec": "【FSBOT】網路(指令:/網路)",
     "networkipcommand": "ip地址",
     "networkipcommanddec": "【FSBOT】查看IP地址資訊(指令:/ip地址)",
     "networkipip": "ip地址",
@@ -21,6 +23,16 @@
     "networkipembedd": "🌐ISP網絡服務供應商",
     "networkipembede": "🌐AS自治系統",
     "networkipsendsec": "{0} 您所查詢的IP資訊!",
+    "networkwhoiscommand": "whois",
+    "networkwhoiscommanddec": "【FSBOT】查看IP Whois資訊(指令:/網路 whois)",
+    "networkwhoisembedtitle": "🌐{0} IP Whois資訊",
+    "networkwhoisembedregistrar": "🏭域名註冊商",
+    "networkwhoisembedwhoisserver": "💻Whois 伺服器",
+    "networkwhoisembedwhoiscreationdate": "⏲域名創建時間",
+    "networkwhoisembedwhoisupdateddate": "⏲域名更新時間",
+    "networkwhoisembedwhoisexpirationdate": "⏲域名到期時間",
+    "networkwhoisembedwhoisnameservers": "📜域名名稱伺服器",
+    "networkipwhoissendsec": "{0} 您所查詢的IP Whois資訊!",
 
     "pollcommand": "投票",
     "polldes": "【FSBOT】建立一個投票(指令:/投票)",
@@ -717,7 +729,7 @@
     "errormanegerole": "管理身分組",
     "erroradmin": "管理者",
 
-    "helpselectgeneral": "{user} 您所查詢的一般指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)一般指令幫助列表**\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 一般基本指令**\n> </{help}:{helpid}> `查看所有指令列表!`\n> </{ping}:{pingid}> `查看炸蝦機器人(FSBOT)系統資訊!`\n> </{search}:{searchid}> `搜尋[Google提供支援]`\n> </{poll}:{pollid}> `建立投票!`\n> </{feedback}:{feedbackid}> `回報錯誤!`\n> </{fsbotstar}:{fsbotstarid}> `給予炸蝦機器人(FSBOT)評價!`\n> \n> **<a:arrow_greendotright:974968929879478333> 有趣的小指令**\n> </{funjpanimu}:{funjpanimuid}> `查看日本動漫圖!`\n> </{funanimal}:{funanimalid}> `查看一些動物的圖片!`\n> \n> *<a:arrow_greendotright:974968929879478333> 詳細資訊指令*\n> </{avatar}:{avatarid}> `查看用戶頭像!`\n> </{infouser}:{infouserid}> `查看用戶詳細資訊!`\n> </{infoserver}:{infoserverid}> `查看群組詳細資訊!`\n> </{infofsbot}:{infofsbotid}> `查看炸蝦機器人(FSBOT)詳細資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> 網路相關指令**\n> </{ip}:{ipid}> `查看IP或網域資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> Minecraft相關指令**\n> </{minecraftjavaserver}:{minecraftjavaserverid}> `查看Minecraft Java伺服器詳細資訊!`\n> </{minecraftbedrockserver}:{minecraftbedrockserverid}> `查看Minecraft Bedrock伺服器詳細資訊!`\n> </{minecraftplayer}:{minecraftplayerid}> `查看Minecraft玩家資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> 炸蝦商城相關指令**\n> </{sign}:{signid}> `簽到獲取炸蝦幣(FSCoins)!`\n> </{pay}:{payid}> `轉帳炸蝦幣(FSCoins)給其他用戶[將會收取10炸蝦幣(FSCoins)當手續費]!`\n> </{redeem}:{redeemid}> `使用代碼兌換炸蝦幣(FSCoins)`",
+    "helpselectgeneral": "{user} 您所查詢的一般指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)一般指令幫助列表**\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 一般基本指令**\n> </{help}:{helpid}> `查看所有指令列表!`\n> </{ping}:{pingid}> `查看炸蝦機器人(FSBOT)系統資訊!`\n> </{search}:{searchid}> `搜尋[Google提供支援]`\n> </{poll}:{pollid}> `建立投票!`\n> </{feedback}:{feedbackid}> `回報錯誤!`\n> </{fsbotstar}:{fsbotstarid}> `給予炸蝦機器人(FSBOT)評價!`\n> \n> **<a:arrow_greendotright:974968929879478333> 有趣的小指令**\n> </{funjpanimu}:{funjpanimuid}> `查看日本動漫圖!`\n> </{funanimal}:{funanimalid}> `查看一些動物的圖片!`\n> \n> *<a:arrow_greendotright:974968929879478333> 詳細資訊指令*\n> </{avatar}:{avatarid}> `查看用戶頭像!`\n> </{infouser}:{infouserid}> `查看用戶詳細資訊!`\n> </{infoserver}:{infoserverid}> `查看群組詳細資訊!`\n> </{infofsbot}:{infofsbotid}> `查看炸蝦機器人(FSBOT)詳細資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> 網路相關指令**\n> </{networkip}:{networkipid}> `查看IP或網域資訊!`\n> </{networkwhois}:{networkwhoisid}> `查看IP或網域Whois資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> Minecraft相關指令**\n> </{minecraftjavaserver}:{minecraftjavaserverid}> `查看Minecraft Java伺服器詳細資訊!`\n> </{minecraftbedrockserver}:{minecraftbedrockserverid}> `查看Minecraft Bedrock伺服器詳細資訊!`\n> </{minecraftplayer}:{minecraftplayerid}> `查看Minecraft玩家資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> 炸蝦商城相關指令**\n> </{sign}:{signid}> `簽到獲取炸蝦幣(FSCoins)!`\n> </{pay}:{payid}> `轉帳炸蝦幣(FSCoins)給其他用戶[將會收取10炸蝦幣(FSCoins)當手續費]!`\n> </{redeem}:{redeemid}> `使用代碼兌換炸蝦幣(FSCoins)`",
     
     "helpselectset": "{user} 您所查詢的設置指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)設置指令幫助列表**\n設置功能有部分在[網站]({website})上，歡迎前往網站做設置!\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 抽獎指令**\n> </{giveawayset}:{giveawaysetid}> `設定抽獎[需有管理訊息權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 客服單指令**\n> </{ticketset}:{ticketsetid}> `設定客服單系統[需有管理者權限]!`\n> </{ticketclose}:{ticketcloseid}> `關閉客服單[需在客服單頻道]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 自動身分組指令**\n> </{rolesautoset}:{rolesautosetid}> `創建一則訊息自動分配身分組[需有管理身分組權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 建議系統指令**\n> </{suggestionchannelset}:{suggestionchannelsetid}> `設置一個建議頻道給用戶發送建議[需有管理訊息權限]!`\n> </{suggestionchannelremove}:{suggestionchannelremoveid}> `移除已設置的建議頻道[需有管理訊息權限]!`",
 
