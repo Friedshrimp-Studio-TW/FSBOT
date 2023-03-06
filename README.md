@@ -79,9 +79,29 @@
 <p align="center">
     </br><table align="center">
         <tr>
-            <td align="center">📖一般指令</td>
-            <td align="center">⚙設定指令</td>
-            <td align="center">🚫管理員指令</td>
+            <td align="center">
+                <details>
+                    <summary><u><b>📖一般指令(可點開查看圖片🖼️)</b></u></summary>
+                    <img src=https://github.com/friedshrimptaiwan/FSBOT/blob/main/image/%E4%B8%80%E8%88%AC%E6%8C%87%E4%BB%A4.png></img>
+                </details>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <details>
+                    <summary><u><b>⚙設定指令(可點開查看圖片🖼️)</b></u></summary>
+                    <img src=https://github.com/friedshrimptaiwan/FSBOT/blob/main/image/%E8%A8%AD%E5%AE%9A%E6%8C%87%E4%BB%A41.png></img>
+                    <img src=https://github.com/friedshrimptaiwan/FSBOT/blob/main/image/%E8%A8%AD%E5%AE%9A%E6%8C%87%E4%BB%A42.png></img>
+                </details>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <details>
+                    <summary><u><b>🚫管理指令(可點開查看圖片🖼️)</b></u></summary>
+                    <img src=https://github.com/friedshrimptaiwan/FSBOT/blob/main/image/%E7%AE%A1%E7%90%86%E6%8C%87%E4%BB%A4.png></img>
+                </details>
+            </td>
         </tr>
     </table>
     <table align="center">
