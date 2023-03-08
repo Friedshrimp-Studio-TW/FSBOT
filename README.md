@@ -19,7 +19,7 @@
         <img alt="Python" src="https://img.shields.io/badge/Python版本-V3.11.2-yellow.svg?style=for-the-badge&logo=python" />
     </a>
     <a href="https://disnake.dev/">
-        <img alt="Disnake" src="https://img.shields.io/badge/Disnake版本-V2.7.2-blue.svg?style=for-the-badge&logo=discord" />
+        <img alt="Disnake" src="https://img.shields.io/badge/Disnake版本-V2.8.1-blue.svg?style=for-the-badge&logo=discord" />
     </a>
     <a href="https://discord.fsbot.tk" alt="Discord支援群組">
         <img src="https://img.shields.io/discord/937628164862136362?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
