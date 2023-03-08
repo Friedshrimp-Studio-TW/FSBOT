@@ -720,6 +720,8 @@
 
     "errorembedtitle": "<a:deny:986087313991929876> 錯誤!",
     "errorembednoperm": "你沒有 `{0}` 權限!\n請獲取該權限後再次重試!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({1})來回報!",
+    "errorembednochannel": "機器人找不到您所在的頻道!\n請檢查機器人權限!\n邀請機器人時請盡量不要更改權限以免無法使用!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
+    "errorembedbotnoperml": "機器人缺少部分權限而導致此指令無法使用!\n請檢查機器人權限!\n邀請機器人時請不要更改權限以免無法使用!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
     "errorbutton": "有問題嗎?點我!",
     "errormuteuser": "禁言成員",
     "errormanegemsg": "管理訊息",
