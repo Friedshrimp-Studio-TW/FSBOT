@@ -626,7 +626,7 @@
     "sgsgnoodec": "📝請輸入您拒絕此建議的原因!",
     "suggestionwait": "等待中",
     "suggestionyes": "同意",
-    "suggestionwait": "思考中",
+    "suggestionwaita": "思考中",
     "suggestionno": "拒絕",
 
     "ticketcommand": "客服單",
@@ -698,7 +698,7 @@
     
     "onmemberjoinembedtitle": "歡迎加入",
     "onmemberjoinembedfooter": "FSBOT • 你是第{0}位成員!",
-    "onmemberjoinembedfooter": "訊息發送自: {0} 群組!",
+    "onmemberjoinembedfootera": "訊息發送自: {0} 群組!",
     "onmemberleaveembedtitle": "離開",
     "onmemberleaveembedfooter": "FSBOT • 群組剩下{0}位成員!",
     
