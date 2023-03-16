@@ -6,6 +6,7 @@
     "fssayonevalue": "訊息",
     "fssayonevaluedes": "輸入訊息",
     "fssaycannotuse": "此FS系列指令為炸蝦專屬喔!\n {0} 不要偷玩欸!",
+
     "networkcommand": "網路",
     "networkcommanddec": "【FSBOT】網路(指令:/網路)",
     "networkipcommand": "ip地址",
@@ -32,6 +33,7 @@
     "networkwhoisembedwhoisexpirationdate": "⏲域名到期時間",
     "networkwhoisembedwhoisnameservers": "📜域名名稱伺服器",
     "networkipwhoissendsec": "{0} 您所查詢的IP Whois資訊!",
+
     "pollcommand": "投票",
     "polldes": "【FSBOT】建立一個投票(指令:/投票)",
     "pollbriefdes": "投票簡述",
@@ -44,12 +46,14 @@
     "pollfieldone": "<a:1:1070593966187225088> 投票",
     "pollfieldtwo": "<a:1:1070593966187225088> 投票說明",
     "pollsend": "<a:accepted:986082878075068487> 投票已發送!",
+    
     "searchcommand": "搜尋",
     "searchdec": "【FSBOT】搜尋指令(指令:/搜尋)",
     "searchdescription": "要搜尋的內容",
     "searchembedtitle": "🔎 搜尋",
     "searchembeddec": "本服務由Google提供!\n\n[**[點我前往!]**](https://www.google.com/search?q={0})",
     "searchsend": "{0} 您所要查詢的!",
+
     "bancommand": "封禁",
     "bandec": "【FSBOT】封鎖用戶(指令:/封禁)",
     "banuser": "用戶",
@@ -72,6 +76,7 @@
     "bansec": ":airplane: 您已被封鎖",
     "banusercommand": "封鎖此用戶",
     "banusercommandreson": "使用應用程式直接封鎖",
+
     "clearcommand": "清除",
     "clearcommanddec": "【FSBOT】清除頻道指定數量訊息(指令/清除)",
     "clearcount": "清除數量",
@@ -80,6 +85,7 @@
     "clearembeddec": "<a:accepted:986082878075068487> 正在刪除訊息!",
     "clearsecembeddec": "已經設定刪除 `{0}` 則訊息!\n共刪除 `{1}` 則訊息!\n\n若訊息超過14天則無法刪除!\n若頻道中無訊息也無法刪除!",
     "clearsec": "<a:accepted:986082878075068487> 訊息已刪除",
+
     "kickcommand": "踢出",
     "kickcommanddec": "【FSBOT】踢出用戶(指令:/踢出)",
     "kickuser": "用戶",
@@ -103,6 +109,7 @@
     "kickusercommand": "踢出此用戶",
     "kickusercommandreson": "使用應用程式直接踢出",
     "kicknotfound": "你無法踢出不在此群組的用戶!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
+
     "mutecommand": "禁言",
     "mutecommanddec": "【FSBOT】禁言用戶(指令:/禁言)",
     "muteuser": "用戶",
@@ -166,6 +173,7 @@
     "unmutenotfound": "你無法解除禁言不在此群組的用戶!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
     "unmutedmbutton": "被解除禁言的群組: {0}",
     "unmutedmmsg": "😮 您已被解除禁言",
+
     "setnickcommand": "設置暱稱",
     "setnickcommanddec": "【FSBOT】設置用戶的暱稱(指令:/設置暱稱)",
     "setnickuser": "用戶",
@@ -187,6 +195,7 @@
     "removenicksec": "{0} 暱稱已移除完成!",
     "setnicknotfound": "你無法更改不在此群組用戶的暱稱!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
     "removenicknotfound": "無法移除不在此群組用戶的暱稱!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
+
     "sayembedcommand": "發送嵌入訊息",
     "sayembedcommanddec": "【FSBOT】發送一則嵌入訊息(指令:/發送嵌入訊息)",
     "sayembedmsg": "訊息",
@@ -207,6 +216,7 @@
     "saymessagemsg": "訊息",
     "saymessagemsgdec": "要發送的訊息",
     "saymessagesec": "<a:accepted:986082878075068487> 訊息已發送",
+
     "setupdatecommand": "設置更新頻道",
     "setupdatecommanddec": "【FSBOT】設定FSBOT更新訊息發送頻道(指令:/設置接收更新頻道)",
     "setupdatechannel": "設置接收更新頻道",
@@ -233,11 +243,13 @@
     "removeannouncementembeddec": "炸蝦機器人(FSBOT)公告已移除完成!",
     "updatewebhook": "【FSBOT】炸蝦機器人更新日誌",
     "annwebhook": "【FSBOT】炸蝦機器人公告",
+
     "feedbackcommand": "回報錯誤",
     "feedbackcommanddec": "【FSBOT】回報錯誤-BUG(指令:/回報錯誤)",
     "feedbacktitle": "錯誤描述(BUG)",
     "feedbackdec": "請輸入您發現的錯誤(BUG)!並詳細說明如何重現此錯誤!",
     "feedbacksend": "錯誤(BUG)回報",
+
     "fsbotstarcommand": "fsbot評價",
     "fsbotstarcommanddec": "【FSBOT】給予本機器人評價(指令:/fsbot評價)",
     "fsbotstarstar": "星數",
@@ -252,6 +264,7 @@
     "fsbotstartitle": "<a:accepted:986082878075068487> 你的評價已發送!",
     "fsbotstardec": "**親愛的用戶您好:**\n感謝您給予 炸蝦機器人(FSBOT) 回饋!\n您給的回饋我們都會過目並加以檢討\n非常感謝您的支持!\n\n如有問題請至[[FSBOT支援群組]]({0})來回報!\n感謝您的配合!",
     "fsbotstarcooldown": "此指令還在冷卻中!\n請稍等 {0} 秒!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({1})來回報!",
+
     "rolescommand": "身分組",
     "rolescommanddec": "【FSBOT】自動分配身分組(指令:/身分組)",
     "autosetcommand": "自動分配",
@@ -289,6 +302,7 @@
     "autosetrolgive": "您已取得 <@&{0}> 身分組!",
     "autosetrolerror": "群組擁有者或管理員可能移除了這個身分組\n或是我沒有權限管理你的身分組!\n抑或是我不能給予比我最高身分組還要高的身分組!",
     "autosetrolesended": "<a:accepted:986082878075068487> 自動身分組訊息已發送!",
+
     "cdccommand": "疾管署",
     "cdccommanddec": "【FSBOT】衛生福利部疾病管制署訊息(指令:/疾管署)",
     "cdccommandmsg": "通知設定",
@@ -355,11 +369,13 @@
     "messagelogcommandremoveembedtitledec": "訊息紀錄已移除完成!\n如想要再次接收請使用 `/訊息紀錄 通知設定` 設置!",
     "messagelogcommandremovemsg": "移除通知設定",
     "messagelogcommandremovemsgdec": "【FSBOT】移除群組訊息紀錄(指令:/訊息紀錄 移除通知設定)",
+
     "signcommand": "簽到",
     "signcommanddec": "【FSBOT】每日簽到(指令:/簽到)",
     "signembedtitle": "<a:accepted:986082878075068487> 您已成功簽到!",
     "signembeddec": "本次簽到共獲得 {0} <a:fscoin:981496970067734589>炸蝦(FS)幣!\n您目前共有 {1} <a:fscoin:981496970067734589>炸蝦(FS)幣!\n請等待 <t:{2}> (<t:{3}:R>) 再次簽到!",
     "signtimeerror": "您目前共有 {0} <a:fscoin:981496970067734589>炸蝦(FS)幣!\n\n目前你還不能簽到!\n請在 <t:{1}>(<t:{2}:R>) 後重試!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({3})來回報!",
+
     "funcommand": "有趣小指令",
     "funcommanddec": "【FSBOT】一些有趣的小指令(指令:/有趣小指令)",
     "funanimalcommand": "動物",
@@ -383,6 +399,7 @@
     "funjpanimucommand": "日本動漫圖",
     "funjpanimucommanddec": "【FSBOT】查看一些日本動漫的有趣圖片(指令:/有趣小指令 日本動漫圖)",
     "jpmdec": "📺日本動漫圖片",
+
     "giveawaycommand": "抽獎",
     "giveawaycommanddec": "【FSBOT】抽獎(指令:/抽獎)",
     "giveawaysetcommand": "設置",
@@ -403,6 +420,7 @@
     "giveawayusermsgfa": "🎉 您已離開此抽獎!",
     "giveawayembedtitlegcount": "抽出人數: ",
     "giveawayembedtitleallcount": "參與人數: ",
+
     "paycommand": "轉帳",
     "paycommanddec": "【FSBOT】轉帳給其他用戶指令(指令:/轉帳)",
     "paycommanduser": "用戶",
@@ -414,6 +432,7 @@
     "payembedtitlesec": "<a:accepted:986082878075068487> 您已成功轉帳!",
     "payerrornothave": "您無法轉帳!\n你所要轉帳的用戶沒有帳戶!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
     "payerrorselfnothave": "您無法轉帳!\n因你沒有帳戶!\n嘗試使用 `/簽到` 來創建帳戶!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
+
     "redeemcommand": "兌換",
     "redeemcommanddec": "【FSBOT】兌換代碼(指令:/兌換)",
     "redeemcode": "代碼",
@@ -424,6 +443,7 @@
     "redeemembedtitlesec": "<a:accepted:986082878075068487> 您已成功兌換!",
     "redeemembeddecsec": "兌換代碼: `{0}`\n\n共獲得 {1} <a:fscoin:981496970067734589>炸蝦(FS)幣!\n您目前共有 {2} <a:fscoin:981496970067734589>炸蝦(FS)幣!",
     "redeemsecmsg": "{0} 您兌換成功!",
+
     "storecommand": "商城",
     "storecommanddec": "【FSBOT】炸蝦商城(指令:/商城)",
     "storelistcommand": "列表",
@@ -432,6 +452,7 @@
     "storelistembeddec": "請使用 `/商城 購買 <數字>` 來購買喔!",
     "storelistembedsell": "販賣物品",
     "storelistembedlist": "```\n暫無\n```",
+
     "infocommand": "資訊",
     "infocommanddec": "【FSBOT】詳細資訊指令(指令:/資訊)",
     "infousercommand": "用戶",
@@ -458,6 +479,15 @@
     "infoserverembeddec": "📜群組描述",
     "infoserverno": "```\n無\n```",
     "infoserverembedowner": "👑群組擁有者",
+    "infoserverembedverificationlevel": "🛡群組驗整等級",
+    "infoserverembedverificationlevelnone": "無",
+    "infoserverembedverificationlevellow": "低",
+    "infoserverembedverificationlevelmedium": "中",
+    "infoserverembedverificationlevelhigh": "高",
+    "infoserverembedverificationlevelhighest": "最高",
+    "infoserverembedmessagelevel": "📭群組通知設定",
+    "infoserverembedmessageallmessage": "所有訊息",
+    "infoserverembedmessageonlymention": "只有 @mention",
     "infoserverembed2fa": "🔒群組管理2FA",
     "infoserveropen": "已開啟",
     "infoserverclose": "已關閉",
@@ -465,7 +495,7 @@
     "infoserverembeddcnitrodec": "```\n等級: {0} | {1} 個加成 \n```",
     "infoservermsgsec": "{0} 您所查詢的群組資訊!",
     "infoserverembedchannel": "🗣️群組頻道數",
-    "infoserverembedchanneldec": "```\n總頻道數 {0} | {1} 個文字頻道 | {2} 個語音頻道 | {3} 個舞台頻道 | {4} 個論壇頻道 \n```",
+    "infoserverembedchanneldec": "```\n總頻道數 {0} | 總類別數 {1}\n{2} 個文字頻道 | {3} 個語音頻道 | {4} 個舞台頻道 | {5} 個論壇頻道 \n```",
     "infoserverembedmembers": "👤群組成員總數",
     "infoserverembedmembersdec": "```\n總人數 {0} | {1} 個用戶 | {2} 個機器人\n```",
     "infoserverembedemoji": "😀群組表情符號數",
@@ -477,9 +507,9 @@
     "infoserverembedecreate": "🚧群組創建日期",
     "fsbotcommand": "炸蝦機器人",
     "fsbotcommanddec": "【FSBOT】查看炸蝦機器人詳細資訊(指令:/資訊 炸蝦機器人)",
-    "infofsbotunlimit": "無限",
+    "infofsbotunlimit":"無限",
     "infofsbotname": "FSBOT 名稱",
-    "infofsbotping": "FSBOT 延遲",
+    "infofsbotping":"FSBOT 延遲",
     "infofsbotinfo": "ℹ️FSBOT 資訊",
     "infofsbotguilds": "FSBOT 所在群組總數",
     "infofsbotguildsdec": "```\n共 {0} 個群組 | 共 {1} 個用戶\n```",
@@ -498,8 +528,10 @@
     "infousernotfound": "你無法查詢不再此群組的用戶資訊!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
     "infouserembedcoloranncolor": "橫幅顏色: ",
     "infouserembedcolorcolor": "個人資料主題顏色: ",
+
     "pingcommand": "延遲",
     "pingcommanddec": "【FSBOT】查看炸蝦機器人系統資訊(指令:/延遲)",
+
     "avatarcommand": "頭像",
     "avatarcommanddec": "【FSBOT】查看用戶頭像(指令:/頭像)",
     "avatarcommanduser": "用戶",
@@ -508,6 +540,7 @@
     "avatarembeddec": "🔗[{0} 用戶頭像連結]({1})",
     "avatarsendsec": "{0} 您所查詢的用戶頭像!",
     "avatarnotfound": "你無法查詢不再此群組的用戶頭像!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
+
     "minecraftcommand": "麥塊",
     "minecraftcommanddec": "【FSBOT】Minecraft相關(指令:/麥塊)",
     "minecraftjavaservercommand": "java伺服器",
@@ -545,6 +578,7 @@
     "minecraftplayererrordec": "找不到你提供的玩家名稱資訊!\n請更換別的玩家!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
     "minecraftbeserverembededeca": "```\n伺服器版本: {0} ( {1} )\n```",
     "minecraftbeserverembededecb": "```\n伺服器版本: {0}\n```",
+    
     "suggestionchannelcommand": "建議頻道",
     "suggestionchannelcommanddec": "【FSBOT】建議系統(指令:/建議頻道)",
     "suggestionsetcommand": "設置",
@@ -603,6 +637,7 @@
     "suggestionyes": "同意",
     "suggestionwaita": "思考中",
     "suggestionno": "拒絕",
+
     "ticketcommand": "客服單",
     "ticketcommanddec": "【FSBOT】客服單系統(指令:/客服單)",
     "ticketsetcommand": "設定",
@@ -639,6 +674,7 @@
     "ticketclosedela": "<a:loading:986078511984955452> 請稍等!",
     "ticketclosedelb": "<a:loading:986078511984955452> 此頻道正在儲存!請稍等!",
     "ticketclosedelc": "<a:loading:986078511984955452> 此頻道正在刪除!",
+
     "helpcommand": "幫助列表",
     "helpcommanddec": "【FSBOT】查看指令幫助列表(指令:/幫助列表)",
     "helpcommandamsgsec": "{0} 您所查詢的指令幫助列表!\n\n**:blue_book: 炸蝦機器人(FSBOT)指令幫助列表**\n> 有問題歡迎至[[FSBOT支援群組]]({1})來回報喔!\n> \n> <a:arrow_greendotright:974968929879478333> 選擇下方選單來查看你想要查看的指令列表!",
@@ -650,9 +686,11 @@
     "admincommand": "管理指令",
     "admincommanddec": "查看管理指令列表",
     "helpmsgcommand": "查看幫助列表",
+    
     "onguildjoinembeddesc": "感謝您邀請FSBOT!\n有問題歡迎至[[FSBOT支援群組]]({0})來回報喔!\n\n入門:\n使用 `/幫助` 查看指令喔!",
     "onguildjoinembedfsbotguild": "前往FSBOT支援群組!",
     "onguildjoinembedfsbotweb": "前往FSBOT網站!",
+    
     "onguildchannelcreatetext": "文字",
     "onguildchannelcreatevoice": "語音",
     "onguildchannelcreatecategory": "類別",
@@ -666,11 +704,13 @@
     "onthreadcreateembedtitle": ":new: 討論串頻道創建",
     "onthreadcreateembeddesc": "討論串頻道名稱: {0}\n討論串頻道ID: {1}\n{2}",
     "onthreadcdeleteembeddesc": "討論串頻道名稱: {0}\n討論串頻道ID: {1}",
+    
     "onmemberjoinembedtitle": "歡迎加入",
     "onmemberjoinembedfooter": "FSBOT • 你是第{0}位成員!",
     "onmemberjoinembedfootera": "訊息發送自: {0} 群組!",
     "onmemberleaveembedtitle": "離開",
     "onmemberleaveembedfooter": "FSBOT • 群組剩下{0}位成員!",
+    
     "onmessagedeleteembedtitle": "🗑️訊息刪除",
     "onmessagedeleteembeddesc": "用戶 {0} | {1} 在 <#{2}> 刪除訊息!",
     "onmessagedeletemessage": "➡️刪除的訊息",
@@ -686,6 +726,7 @@
     "onmessageann": "🍤炸蝦機器人(FSBOT)公告",
     "onmessagedmsec": "<a:accepted:986082878075068487> 成功!",
     "onmessagedmsecdesc": "我已將您的問題發送給FSBOT團隊!請您稍後!\n刪除的訊息FSBOT團隊依然看得見!\n編輯後的訊息FSBOT團隊無法看見!",
+
     "errorembedtitle": "<a:deny:986087313991929876> 錯誤!",
     "errorembednoperm": "你沒有 `{0}` 權限!\n請獲取該權限後再次重試!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({1})來回報!",
     "errorembednochannel": "機器人找不到您所在的頻道!\n請檢查機器人權限!\n邀請機器人時請盡量不要更改權限以免無法使用!\n\n如果你認為這是個錯誤，請至[[FSBOT支援群組]]({0})來回報!",
@@ -696,6 +737,7 @@
     "denybutton": "不同意",
     "acceptrulesend": "<a:accepted:986082878075068487> 您已接受本機器人服務條款與隱私權政策!",
     "denyrulesend": "<a:deny:986087313991929876> 您不接受本機器人服務條款與隱私權政策!將無法使用本機器人!",
+    "errorview": "⚠️這個按鈕或選單屬於使用該指令的人!您無法對其進行操作!",
     "errorbutton": "有問題嗎?點我!",
     "errormuteuser": "禁言成員",
     "errormanegemsg": "管理訊息",
@@ -704,8 +746,12 @@
     "errorban": "對成員停權",
     "errormanegerole": "管理身分組",
     "erroradmin": "管理者",
+
     "helpselectgeneral": "{user} 您所查詢的一般指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)一般指令幫助列表**\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 一般基本指令**\n> </{help}:{helpid}> `查看所有指令列表!`\n> </{ping}:{pingid}> `查看炸蝦機器人(FSBOT)系統資訊!`\n> </{search}:{searchid}> `搜尋[Google提供支援]`\n> </{poll}:{pollid}> `建立投票!`\n> </{feedback}:{feedbackid}> `回報錯誤!`\n> </{fsbotstar}:{fsbotstarid}> `給予炸蝦機器人(FSBOT)評價!`\n> \n> **<a:arrow_greendotright:974968929879478333> 有趣的小指令**\n> </{funjpanimu}:{funjpanimuid}> `查看日本動漫圖!`\n> </{funanimal}:{funanimalid}> `查看一些動物的圖片!`\n> \n> *<a:arrow_greendotright:974968929879478333> 詳細資訊指令*\n> </{avatar}:{avatarid}> `查看用戶頭像!`\n> </{infouser}:{infouserid}> `查看用戶詳細資訊!`\n> </{infoserver}:{infoserverid}> `查看群組詳細資訊!`\n> </{infofsbot}:{infofsbotid}> `查看炸蝦機器人(FSBOT)詳細資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> 網路相關指令**\n> </{networkip}:{networkipid}> `查看IP或網域資訊!`\n> </{networkwhois}:{networkwhoisid}> `查看IP或網域Whois資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> Minecraft相關指令**\n> </{minecraftjavaserver}:{minecraftjavaserverid}> `查看Minecraft Java伺服器詳細資訊!`\n> </{minecraftbedrockserver}:{minecraftbedrockserverid}> `查看Minecraft Bedrock伺服器詳細資訊!`\n> </{minecraftplayer}:{minecraftplayerid}> `查看Minecraft玩家資訊!`\n> \n> **<a:arrow_greendotright:974968929879478333> 炸蝦商城相關指令**\n> </{sign}:{signid}> `簽到獲取炸蝦幣(FSCoins)!`\n> </{pay}:{payid}> `轉帳炸蝦幣(FSCoins)給其他用戶[將會收取10炸蝦幣(FSCoins)當手續費]!`\n> </{redeem}:{redeemid}> `使用代碼兌換炸蝦幣(FSCoins)`",
+    
     "helpselectset": "{user} 您所查詢的設置指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)設置指令幫助列表**\n設置功能有部分在[網站]({website})上，歡迎前往網站做設置!\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 抽獎指令**\n> </{giveawayset}:{giveawaysetid}> `設定抽獎[需有管理訊息權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 客服單指令**\n> </{ticketset}:{ticketsetid}> `設定客服單系統[需有管理者權限]!`\n> </{ticketclose}:{ticketcloseid}> `關閉客服單[需在客服單頻道]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 自動身分組指令**\n> </{rolesautoset}:{rolesautosetid}> `創建一則訊息自動分配身分組[需有管理身分組權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 建議系統指令**\n> </{suggestionchannelset}:{suggestionchannelsetid}> `設置一個建議頻道給用戶發送建議[需有管理訊息權限]!`\n> </{suggestionchannelremove}:{suggestionchannelremoveid}> `移除已設置的建議頻道[需有管理訊息權限]!`",
+
     "helpselectsetb": "{user} 您所查詢的設置指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)設置指令幫助列表**\n設置功能有部分在[網站]({website})上，歡迎前往網站做設置!\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 設定群組紀錄指令**\n> </{messagelogmessageset}:{messagelogmessagesetid}> `設定訊息紀錄發送頻道[需有管理者權限]!`\n> </{messagelogmessageremove}:{messagelogmessageremoveid}> `移除訊息紀錄發送頻道[需有管理者權限]!`\n> </{channellogmessageset}:{channellogmessagesetid}> `設定頻道紀錄發送頻道[需有管理者權限]!`\n> </{channellogmessageremove}:{channellogmessageremoveid}> `移除頻道紀錄發送頻道[需有管理者權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)公告與更新設置**\n> </{setannouncement}:{setannouncementid}> `設定炸蝦機器人(FSBOT)公告訊息發送頻道[需有管理者權限]!`\n> </{removeannouncement}:{removeannouncementid}> `移除炸蝦機器人(FSBOT)公告訊息發送頻道[需有管理者權限]!`\n> </{setupdate}:{setupdateid}> `設置炸蝦機器人(FSBOT)更新訊息發送頻道[需有管理者權限]!`\n> </{removeupdate}:{removeupdateid}> `移除炸蝦機器人(FSBOT)更新訊息發送頻道[需有管理者權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 地震報告設置**\n> 可前往[炸蝦機器人網站]({seteqweb})做設置 `[需有管理者權限]`!\n> </{earthquakemessageset}:{earthquakemessagesetid}> `設置地震報告發送頻道[需有管理者權限]!`\n> </{earthquakemessageremove}:{earthquakemessageremoveid}> `移除地震報告發送頻道[需有管理者權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 天氣警特報設置**\n> </{weathermessageset}:{weathermessagesetid}> `設置天氣警特報發送頻道[需有管理者權限]!`\n> </{weathermessageremove}:{weathermessageremoveid}> `移除天氣警特報發送頻道[需有管理者權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 疾管署設置**\n> </{cdcmessageset}:{cdcmessagesetid}> `設置疾管署特報發送頻道[需有管理者權限]!`\n> </{cdcmessageremove}:{cdcmessageremoveid}> `移除疾管署特報發送頻道[需有管理者權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 災害告警設置**\n> </{pwsmessageset}:{pwsmessagesetid}> `設置災害告警發送頻道[需有管理者權限]!`\n> </{pwsmessageremove}:{pwsmessageremoveid}> `移除災害告警發送頻道[需有管理者權限]!`",
+
     "helpselectadmin": "{user} 您所查詢的管理指令幫助列表!\n\n**<a:arrow_greendotright:974968929879478333> 炸蝦機器人(FSBOT)管理員指令幫助列表**\n有問題歡迎至[[FSBOT支援群組]]({supportlink})來回報喔!\n> **<a:arrow_greendotright:974968929879478333> 管理指令**\n> </{ban}:{banid}> `封鎖用戶[需有對成員停權權限]!`\n> </{kick}:{kickid}> `踢出成員[需有踢出成員權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 暱稱指令**\n> </{setnick}:{setnickid}> `更改成員暱稱[需有管理暱稱權限]!`\n> </{removenick}:{removenickid}> `移除成員暱稱[需有管理暱稱權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 禁言指令**\n> </{mute}:{muteid}> `禁言成員[需有禁言成員權限]!`\n> </{unmute}:{unmuteid}> `解除禁言成員[需有禁言成員權限]!`\n> \n> **<a:arrow_greendotright:974968929879478333> 訊息指令**\n> </{sayembed}:{sayembedid}> `發送一則嵌入訊息[需有管理訊息權限]!`\n> </{saymessage}:{saymessageid}> `發送一則一般訊息[需有管理訊息權限]!`\n> </{clear}:{clearid}> `刪除特定數量訊息[需有管理訊息權限]!`"
 }
