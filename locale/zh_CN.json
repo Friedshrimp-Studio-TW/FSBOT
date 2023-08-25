@@ -1,7 +1,7 @@
 {
-    "nickvalue1": "選擇用戶",
-    "removenickcommand": "移除暱稱",
-    "removenickcommanddescription": "🍤【FSBOT】移除用戶的暱稱(指令:/移除暱稱)",
+    "nickvalue1": "选择用户",
+    "removenickcommand": "移除昵称",
+    "removenickcommanddescription": "🍤【FSBOT】移除用户的昵称(指令是 /移除暱稱)",
     "removenickvalue1description": "➡️選取要移除暱稱的用戶",
     "setnickcommand": "設置暱稱",
     "setnickvalue1description": "➡️選取要設置暱稱的用戶",
