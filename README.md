@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://invite.fsbot.tk/">[ ╰╮ 邀請機器人 ╭╯ ]</a> 
+<a href="https://invite.fsbot.xyz/">[ ╰╮ 邀請機器人 ╭╯ ]</a> 
 </p>
 
 ---
@@ -21,12 +21,12 @@
     <a href="https://disnake.dev/">
         <img alt="Disnake" src="https://img.shields.io/badge/Disnake版本-V2.8.1-blue.svg?style=for-the-badge&logo=discord" />
     </a>
-    <a href="https://discord.fsbot.tk" alt="Discord支援群組">
+    <a href="https://discord.fsbot.xyz" alt="Discord支援群組">
         <img src="https://img.shields.io/discord/937628164862136362?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
     </a>
 </p>
 <h3 align="center">
-    <a href="https://www.fsbot.tk/#privacypolicy" alt="🔗FSBOT隱私權政策"><b>🔗FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="🔗FSBOT服務條款"><b>🔗FSBOT服務條款</b></a></br>
+    <a href="https://www.fsbot.xyz/privacypolicy" alt="🔗FSBOT隱私權政策"><b>🔗FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.xyz/tos" alt="🔗FSBOT服務條款"><b>🔗FSBOT服務條款</b></a></br>
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與實用小工具!</b>
 <h3>
 
@@ -107,7 +107,7 @@
     <table align="center">
         <tr>
             <td align="center">
-                ✳️ 擁有地震報告發送功能，使用 <code>/earthquake messageset</code> 、 <code>/earthquake messageremove</code> 或 <code><a href="https://www.fsbot.tk" alt="FSBOT官網">前往網站</a></code> 來設置吧!✳️
+                ✳️ 擁有地震報告發送功能，使用 <code>/earthquake messageset</code> 、 <code>/earthquake messageremove</code> 或 <code><a href="https://www.fsbot.xyz" alt="FSBOT官網">前往網站</a></code> 來設置吧!✳️
                 <br><br>
                 ✳️ 擁有疾管署報告發送功能，使用 <code>/cdc messageset</code> 或 <code>/cdc messageremove</code> 來設置吧!✳️
                 <br><br>
@@ -115,7 +115,7 @@
                 <br><br>
                 ✳️ 擁有災害告警發送功能，使用 <code>/pws messageset</code> 或 <code>/pws messageremove</code> 來設置吧!✳️
                 <br><br>
-                ✳️ 擁有用戶加入與退出群組訊息功能，使用 <code><a href="https://www.fsbot.tk" alt="FSBOT官網">前往網站</a></code> 來設置吧!✳️
+                ✳️ 擁有用戶加入與退出群組訊息功能，使用 <code><a href="https://www.fsbot.xyz" alt="FSBOT官網">前往網站</a></code> 來設置吧!✳️
                 <br><br>
                 ✳️ 擁有訊息紀錄功能，使用 <code>/messagelog messageset</code> 與 <code>/messagelog messageremove</code> 來設置吧!✳️
                 <br><br>
@@ -141,7 +141,7 @@
 
 <h1 align="center"><b>🔗相關連結🔗</b></h1>
 <p align="center">
-    <a href="https://www.fsbot.tk/#privacypolicy" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="FSBOT服務條款"><b>FSBOT服務條款</b></a> • <a href="https://invite.fsbot.tk/" alt="FSBOT邀請連結"><b>FSBOT邀請連結</b></a> • <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a>
+    <a href="https://www.fsbot.xyz/privacypolicy" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.xyz/tos" alt="FSBOT服務條款"><b>FSBOT服務條款</b></a> • <a href="https://invite.fsbot.xyz/" alt="FSBOT邀請連結"><b>FSBOT邀請連結</b></a> • <a href="https://discord.fsbot.xyz/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a>
 </p>
 
 ---
