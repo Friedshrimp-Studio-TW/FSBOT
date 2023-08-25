@@ -80,12 +80,12 @@
 <summary><u><b>點擊查看</b></u></summary>
 <h2>空缺1</h2>
     
-<p align="center">本地化(i18n) 翻譯</br>有意願協助者，請前往 <a href="https://discord.fsbot.xyz/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/1078910164666695680" alt="FSBOT本地化公告">本地化相關公告</a></br>並於 <a href="" alt="FSBOT本地化"> 本地化網站</a> 選擇要翻譯的語言後即可開始翻譯</p>
+<p align="center">本地化(i18n) 翻譯</br>有意願協助者，請前往 <a href="https://discord.fsbot.xyz/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/1078910164666695680" alt="FSBOT本地化公告">本地化相關公告</a></br>並於 <a href="https://translate.fsbot.xyz" alt="FSBOT本地化"> 本地化網站</a> 選擇要翻譯的語言後即可開始翻譯</p>
 <p align="center">
 <table align="center">
     <tr align="center">
         <td align="center">總翻譯進度</td>
-        <td align="center"><a title="Crowdin" target="_blank" href="https://translate.fsbot.xyz"><img src="https://badges.crowdin.net/fsbot-translate/localized.svg"></a></td>
+        <td align="center"><a title="Crowdin" target="_blank" href=""><img src="https://badges.crowdin.net/fsbot-translate/localized.svg"></a></td>
     </tr>
 </table>
 </p>
