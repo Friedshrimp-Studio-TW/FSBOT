@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://invite.fsbot.tk/">[ ╰╮ 邀請機器人 ╭╯ ]</a> 
+<a href="https://invite.fsbot.xyz/">[ ╰╮ 邀請機器人 ╭╯ ]</a> 
 </p>
 
 ---
@@ -21,12 +21,12 @@
     <a href="https://disnake.dev/">
         <img alt="Disnake" src="https://img.shields.io/badge/Disnake版本-V2.7.2-blue.svg?style=for-the-badge&logo=discord" />
     </a>
-    <a href="https://discord.fsbot.tk" alt="Discord支援群組">
+    <a href="https://discord.fsbot.xyz" alt="Discord支援群組">
         <img src="https://img.shields.io/discord/937628164862136362?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
     </a>
 </p>
 <h3 align="center">
-    <a href="https://www.fsbot.tk/#privacypolicy" alt="🔗FSBOT隱私權政策"><b>🔗FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="🔗FSBOT服務條款"><b>🔗FSBOT服務條款</b></a></br>
+    <a href="https://www.fsbot.xyz/#privacypolicy" alt="🔗FSBOT隱私權政策"><b>🔗FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.xyz/#tos" alt="🔗FSBOT服務條款"><b>🔗FSBOT服務條款</b></a></br>
     <b>炸蝦機器人(FSBOT)專屬代碼儲存庫</br>主要功能為管理、娛樂與實用小工具!</b>
 <h3>
 
@@ -79,12 +79,13 @@
 <details>
 <summary><u><b>點擊查看</b></u></summary>
 <h2>空缺1</h2>
-<p align="center">本地化(i18n) 翻譯</br>有意願協助者，請前往 <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/980022387284267038/1069550780069199962" alt="FSBOT本地化公告">本地化公告</a></br>確認要翻譯的語言後請前往 <a href="https://gitlocalize.com/repo/8380" alt="FSBOT本地化"> 進行翻譯</a></p>
+    
+<p align="center">本地化(i18n) 翻譯</br>有意願協助者，請前往 <a href="https://discord.fsbot.xyz/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a> 查看 <a href="https://discord.com/channels/937628164862136362/1078910164666695680" alt="FSBOT本地化公告">本地化相關公告</a></br>並於 <a href="https://translate.fsbot.xyz" alt="FSBOT本地化"> 本地化網站</a> 選擇要翻譯的語言後即可開始翻譯</p>
 <p align="center">
 <table align="center">
     <tr align="center">
         <td align="center">總翻譯進度</td>
-        <td align="center"><a href="https://gitlocalize.com/repo/8380/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/8380/whole_project/badge.svg" /></a></td>
+        <td align="center"><a title="Crowdin" target="_blank" href=""><img src="https://badges.crowdin.net/fsbot-translate/localized.svg"></a></td>
     </tr>
 </table>
 </p>
@@ -94,7 +95,7 @@
 
 <h1 align="center"><b>🔗相關連結🔗</b></h1>
 <p align="center">
-    <a href="https://www.fsbot.tk/#privacypolicy" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.tk/#tos" alt="FSBOT服務條款"><b>FSBOT服務條款</b></a> • <a href="https://invite.fsbot.tk/" alt="FSBOT邀請連結"><b>FSBOT邀請連結</b></a> • <a href="https://discord.fsbot.tk/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a>
+    <a href="https://www.fsbot.xyz/privacypolicy" alt="FSBOT隱私權政策"><b>FSBOT隱私權政策</b></a> • <a href="https://www.fsbot.xyz/tos" alt="FSBOT服務條款"><b>FSBOT服務條款</b></a> • <a href="https://invite.fsbot.xyz/" alt="FSBOT邀請連結"><b>FSBOT邀請連結</b></a> • <a href="https://discord.fsbot.xyz/" alt="FSBOT支援群組"><b>FSBOT支援群組</b></a>
 </p>
 
 ---
