@@ -1,5 +1,5 @@
 <p align="center">
-    <image src="https://media.discordapp.net/attachments/986420033121054790/1077218193283751966/fsbot.png" width="250px" ></image>
+    <image src="https://www.fsbot.xyz/assets/images/fsbot-icon.webp" width="250px" ></image>
     <h1 align="center">
         <b>🍤炸蝦機器人[FSBOT]🍤</b>
     </h1>
@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://github.com/vincentwang0905">
-        <img alt="FSBOT擁有者" src="https://img.shields.io/badge/FSBOT擁有者-炸蝦(vincentwang0905)-blue.svg?style=for-the-badge&logo=github" />
+        <img alt="FSBOT擁有者" src="https://img.shields.io/badge/FSBOT擁有者-炸蝦(VincentX0905)-blue.svg?style=for-the-badge&logo=github" />
     </a>
     <a href="https://www.python.org/">
         <img alt="Python" src="https://img.shields.io/badge/Python版本-V3.11.2-yellow.svg?style=for-the-badge&logo=python" />
@@ -22,7 +22,7 @@
         <img alt="Disnake" src="https://img.shields.io/badge/Disnake版本-V2.8.1-blue.svg?style=for-the-badge&logo=discord" />
     </a>
     <a href="https://discord.fsbot.xyz" alt="Discord支援群組">
-        <img src="https://img.shields.io/discord/937628164862136362?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
+        <img src="https://img.shields.io/discord/1176128602018959371?style=for-the-badge&logo=discord&label=%E6%94%AF%E6%8F%B4%E4%BC%BA%E6%9C%8D%E5%99%A8"/>
     </a>
 </p>
 <h3 align="center">
